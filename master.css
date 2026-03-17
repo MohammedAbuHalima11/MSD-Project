@@ -1,5 +1,14 @@
 body {
-    background-image: url(image.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: #eee;
+    font-family: sans-serif;
+}
+
+h1 {
+    width: 300px;
+    margin: 30px auto;
+}
+
+ol li {
+    width: 300px;
+    margin: 30px auto;
 }
